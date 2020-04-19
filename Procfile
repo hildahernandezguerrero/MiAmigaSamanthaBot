@@ -1,1 +1,1 @@
-web: python bot_samanthapdf.py $PORT
+web: voila —-port=$PORT —-no-browser bot_samanthaC.ipynb
